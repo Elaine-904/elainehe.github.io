@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  * {
+    font-family: "Monument Extended";
+  }
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: "Monument Extended";
+}
+
+* {
+  font-family: "Monument Extended";
+}

@@ -1,0 +1,10 @@
+#landingtext{
+    position: absolute;
+    top: 12%;
+    font-size: 18px;
+    z-index: 2;
+    color: white;
+    left: 7%;
+    font-family: auto;
+    font-weight: 300;
+}
