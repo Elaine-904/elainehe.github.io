@@ -9,7 +9,7 @@ const LoadingPage = () => {
             if (percent < 100) {
                 setPercent(percent + 20);
             }
-        }, 100000);
+        }, 1000);
 
         return () => clearInterval(interval);
     }, [percent]);
